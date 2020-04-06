@@ -3,7 +3,7 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: light and shadow
+title: Hexo
 subtitle: ''
 description: ''
 keywords:
@@ -100,4 +100,4 @@ theme: hueman
 deploy:
   type: git
   repo: https://github.com/iteevohe/iteevohe.github.io.git
-  brach: master
+  branch: master
