@@ -4,11 +4,12 @@ title: "再见 YY，你好 Discord"
 date: 2018-02-13 13:26:16 +0800
 categories: Living
 tags: discord game yy
-img: https://i.loli.net/2018/02/13/5a8299ad7dff9.png
+img: /assets/images/game_physics/hello.png
 describe: 为什么要使用流氓 YY ？
 ---
 
 首先，[点击这里](https://discordapp.com/)下载 Discord 。
+![avatar](/assets/images/game_physics/hello.png)
 
 吃鸡盛行，不得不使用靠谱的连麦软件，但是为什么还是 YY ？
 
