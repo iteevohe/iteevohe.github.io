@@ -1,13 +1,24 @@
 ---
 layout: default
 ---
-    {% if site.data.site.uiux.meng == true %}
-    {% if site.data.meng.head_card.switch == true %}
-            {% assign num = site.data.meng.head_card.offset_level %}
-            {% for i in (1..num) %}
-                <div class="head_card-offset"></div>
-            {% endfor %}
+
+
+<section>
+    <div class="section-title">
+        <h2><span>{{ page.title }}</span></h2>
+    </div>
+
+    <div class="article-post">
+    {{content}}
+    </div>
+
+    {% if page.comments == true %}
+
+    <div id="comments" class="row mb-5">
+        <div class="col-md-8">
+            {% include disqus.html %}
+        </div>
+    </div>
+
     {% endif %}
-    {% endif %}
-{% include content/page_content_no_toc.html %}
-{% include content/component/imgboxed.html %}
+</section>
