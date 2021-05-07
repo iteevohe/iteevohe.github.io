@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Inception Movie"
+title:  "hello Movie"
 author: john
 categories: [ Jekyll, tutorial ]
 tags: [red, yellow]
@@ -14,8 +14,13 @@ rating: 4.5
 Review products, books, movies, restaurant and anything you like on your Jekyll blog with Mediumish! JSON-LD ready for review property.
 
 #### How to use?
+![image](images/avatar.png)
 
 It's actually really simple! Add the rating in your YAML front matter. It also supports halfs:
+![rootimage](../assets/images/3.jpg)
+
+hello root only
+![titleimage](assets/images/2.jpg)
 
 ```html
 ---
