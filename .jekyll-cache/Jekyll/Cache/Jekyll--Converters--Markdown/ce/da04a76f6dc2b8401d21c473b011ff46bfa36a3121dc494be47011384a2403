@@ -1,0 +1,15 @@
+I"<h3 id="tool-that-captures-state-from-actors-and-then-displays-it-visually-in-game-or-editor">Tool that captures state from actors and then displays it visually in game or editor.</h3>
+<ul>
+  <li>读取游戏中的Actor中的状态数据，然后可视化的显示在UnityEditor里</li>
+  <li>替换DLL，Hook，实时修改Runtime数据</li>
+  <li>https://docs.unrealengine.com/4.27/en-US/TestingAndOptimization/VisualLogger/</li>
+  <li>帧同步Log</li>
+  <li>Gameplay Debugger(虚幻调试器)对于开发者查看运行时数据非常有用</li>
+</ul>
+
+<h3 id="为实现可视化调试如何设计游戏代码">为实现可视化调试如何设计游戏代码</h3>
+<ul>
+  <li>逻辑和表现分离？</li>
+  <li>龙之谷为什么不能直接进入场景调试GamePlay ？</li>
+</ul>
+:ET
