@@ -1,15 +1,15 @@
 ---
 layout: post
-title:  "gameplay debug"
+title:  "Introduction to character animation"
 author: iteevo
-categories: [ Learning, urp ]
-tags: [red, yellow]
-image: assets/images/11.jpg
-description: "urp 入门"
+categories: [ animation, character ]
+tags: [yellow]
+image: assets/images/animations/Script/8headFrontSideView.jpg
+description: "角色动画简介"
 featured: true
 hidden: true
-rating: 4.5
 ---
+## Introduction to character animation
 ### Tool that captures state from actors and then displays it visually in game or editor.
 - 读取游戏中的Actor中的状态数据，然后可视化的显示在UnityEditor里
 - 替换DLL，Hook，实时修改Runtime数据
@@ -20,3 +20,6 @@ rating: 4.5
 ### 为实现可视化调试如何设计游戏代码
 - 逻辑和表现分离？
 - 龙之谷为什么不能直接进入场景调试GamePlay ？
+
+hello root only
+![titleimage](../../assets/images/animations/Script/8headFrontSideView.jpg)

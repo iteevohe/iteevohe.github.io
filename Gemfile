@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 source "https://rubygems.org"
 
 # Hello! This is where you manage which Jekyll version is used to run.
@@ -6,6 +8,8 @@ source "https://rubygems.org"
 #
 #     bundle exec jekyll serve
 #
+
+gem 'jekyll', '4.3.2'
 
 # If you have any plugins, put them here!
 gem 'wdm', '>= 0.1.0' if Gem.win_platform?

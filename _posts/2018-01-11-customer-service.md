@@ -20,7 +20,7 @@ It's actually really simple! Add the rating in your YAML front matter. It also s
 ![rootimage](../assets/images/3.jpg)
 
 hello root only
-![titleimage](assets/images/2.jpg)
+![titleimage](../assets/images/2.jpg)
 
 ```html
 ---
