@@ -1,19 +1,19 @@
 ---
 layout: post
-title:  "skeleton animation binding pose"
+title:  "Introduction to character animation"
 author: iteevo
 categories: [ animation, character ]
 tags: [yellow]
 image: assets/images/animations//animations/Animation_Vulkan/skeleton_walking.jpg
-description: "骨骼动画"
+description: "角色动画简介"
 featured: true
 hidden: true
 ---
 
-
+hello root only
+![titleimage](../../assets/images/animations/../../../../assets/images/animations/Animation_Vulkan/skeleton_walking.jpg)
 ## Introduction to character animation
-### 角色动画之前向动力学
-![big pendulum ride](../../../assets/images/animations/Animation_Vulkan/big_pendulum_ride.png)
+### 什么是角色动画
 让角色自然运动的方式
 Techniques such as skeletal animation, morphing,
 ragdoll physic simulation, and inverse kinematics have already existed for a long time
